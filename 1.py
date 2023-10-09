@@ -52,8 +52,6 @@ with open('F1.txt', 'r') as f1, open('F2.txt', 'w') as f2:
 
         word_digit_count.clear()
 
-
-
 # Вывод результата
 print(f"Строки с одинаковыми словами из F1 были скопированы в F2.")
 
